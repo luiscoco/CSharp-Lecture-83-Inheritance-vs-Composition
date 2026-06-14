@@ -1,0 +1,14 @@
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\11-VehicleWorkshop\VehicleWorkshop\bin\Debug\net10.0\VehicleWorkshop.exe
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\11-VehicleWorkshop\VehicleWorkshop\bin\Debug\net10.0\VehicleWorkshop.deps.json
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\11-VehicleWorkshop\VehicleWorkshop\bin\Debug\net10.0\VehicleWorkshop.runtimeconfig.json
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\11-VehicleWorkshop\VehicleWorkshop\bin\Debug\net10.0\VehicleWorkshop.dll
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\11-VehicleWorkshop\VehicleWorkshop\bin\Debug\net10.0\VehicleWorkshop.pdb
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\11-VehicleWorkshop\VehicleWorkshop\obj\Debug\net10.0\VehicleWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\11-VehicleWorkshop\VehicleWorkshop\obj\Debug\net10.0\VehicleWorkshop.AssemblyInfoInputs.cache
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\11-VehicleWorkshop\VehicleWorkshop\obj\Debug\net10.0\VehicleWorkshop.AssemblyInfo.cs
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\11-VehicleWorkshop\VehicleWorkshop\obj\Debug\net10.0\VehicleWorkshop.csproj.CoreCompileInputs.cache
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\11-VehicleWorkshop\VehicleWorkshop\obj\Debug\net10.0\VehicleWorkshop.dll
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\11-VehicleWorkshop\VehicleWorkshop\obj\Debug\net10.0\refint\VehicleWorkshop.dll
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\11-VehicleWorkshop\VehicleWorkshop\obj\Debug\net10.0\VehicleWorkshop.pdb
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\11-VehicleWorkshop\VehicleWorkshop\obj\Debug\net10.0\VehicleWorkshop.genruntimeconfig.cache
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\11-VehicleWorkshop\VehicleWorkshop\obj\Debug\net10.0\ref\VehicleWorkshop.dll

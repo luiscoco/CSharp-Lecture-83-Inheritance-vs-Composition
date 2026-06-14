@@ -1,0 +1,14 @@
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\01-08-CoreLecturePractice\InheritanceVsCompositionLab\obj\Debug\net10.0\InheritanceVsCompositionLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\01-08-CoreLecturePractice\InheritanceVsCompositionLab\obj\Debug\net10.0\InheritanceVsCompositionLab.AssemblyInfoInputs.cache
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\01-08-CoreLecturePractice\InheritanceVsCompositionLab\obj\Debug\net10.0\InheritanceVsCompositionLab.AssemblyInfo.cs
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\01-08-CoreLecturePractice\InheritanceVsCompositionLab\obj\Debug\net10.0\InheritanceVsCompositionLab.csproj.CoreCompileInputs.cache
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\01-08-CoreLecturePractice\InheritanceVsCompositionLab\obj\Debug\net10.0\InheritanceVsCompositionLab.dll
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\01-08-CoreLecturePractice\InheritanceVsCompositionLab\obj\Debug\net10.0\refint\InheritanceVsCompositionLab.dll
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\01-08-CoreLecturePractice\InheritanceVsCompositionLab\obj\Debug\net10.0\InheritanceVsCompositionLab.pdb
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\01-08-CoreLecturePractice\InheritanceVsCompositionLab\bin\Debug\net10.0\InheritanceVsCompositionLab.exe
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\01-08-CoreLecturePractice\InheritanceVsCompositionLab\bin\Debug\net10.0\InheritanceVsCompositionLab.deps.json
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\01-08-CoreLecturePractice\InheritanceVsCompositionLab\bin\Debug\net10.0\InheritanceVsCompositionLab.runtimeconfig.json
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\01-08-CoreLecturePractice\InheritanceVsCompositionLab\bin\Debug\net10.0\InheritanceVsCompositionLab.dll
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\01-08-CoreLecturePractice\InheritanceVsCompositionLab\bin\Debug\net10.0\InheritanceVsCompositionLab.pdb
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\01-08-CoreLecturePractice\InheritanceVsCompositionLab\obj\Debug\net10.0\InheritanceVsCompositionLab.genruntimeconfig.cache
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\01-08-CoreLecturePractice\InheritanceVsCompositionLab\obj\Debug\net10.0\ref\InheritanceVsCompositionLab.dll

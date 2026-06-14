@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AnimalCompositionChallenge/1.0.0": {
+        "runtime": {
+          "AnimalCompositionChallenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnimalCompositionChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

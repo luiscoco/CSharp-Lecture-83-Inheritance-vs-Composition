@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/01-08-CoreLecturePractice/">
+    <Project Path="01-08-CoreLecturePractice/InheritanceVsCompositionLab.Tests/InheritanceVsCompositionLab.Tests.csproj" />
+    <Project Path="01-08-CoreLecturePractice/InheritanceVsCompositionLab/InheritanceVsCompositionLab.csproj" />
+  </Folder>
+  <Folder Name="/09-AnimalCompositionChallenge/">
+    <Project Path="09-AnimalCompositionChallenge/AnimalCompositionChallenge/AnimalCompositionChallenge.csproj" />
+  </Folder>
+  <Folder Name="/11-VehicleWorkshop/">
+    <Project Path="11-VehicleWorkshop/VehicleWorkshop.Tests/VehicleWorkshop.Tests.csproj" />
+    <Project Path="11-VehicleWorkshop/VehicleWorkshop/VehicleWorkshop.csproj" />
+  </Folder>
+</Solution>

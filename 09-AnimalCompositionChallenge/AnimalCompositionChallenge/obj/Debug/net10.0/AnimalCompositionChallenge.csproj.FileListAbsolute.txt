@@ -1,0 +1,14 @@
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\09-AnimalCompositionChallenge\AnimalCompositionChallenge\bin\Debug\net10.0\AnimalCompositionChallenge.exe
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\09-AnimalCompositionChallenge\AnimalCompositionChallenge\bin\Debug\net10.0\AnimalCompositionChallenge.deps.json
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\09-AnimalCompositionChallenge\AnimalCompositionChallenge\bin\Debug\net10.0\AnimalCompositionChallenge.runtimeconfig.json
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\09-AnimalCompositionChallenge\AnimalCompositionChallenge\bin\Debug\net10.0\AnimalCompositionChallenge.dll
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\09-AnimalCompositionChallenge\AnimalCompositionChallenge\bin\Debug\net10.0\AnimalCompositionChallenge.pdb
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\09-AnimalCompositionChallenge\AnimalCompositionChallenge\obj\Debug\net10.0\AnimalCompositionChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\09-AnimalCompositionChallenge\AnimalCompositionChallenge\obj\Debug\net10.0\AnimalCompositionChallenge.AssemblyInfoInputs.cache
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\09-AnimalCompositionChallenge\AnimalCompositionChallenge\obj\Debug\net10.0\AnimalCompositionChallenge.AssemblyInfo.cs
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\09-AnimalCompositionChallenge\AnimalCompositionChallenge\obj\Debug\net10.0\AnimalCompositionChallenge.csproj.CoreCompileInputs.cache
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\09-AnimalCompositionChallenge\AnimalCompositionChallenge\obj\Debug\net10.0\AnimalCompositionChallenge.dll
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\09-AnimalCompositionChallenge\AnimalCompositionChallenge\obj\Debug\net10.0\refint\AnimalCompositionChallenge.dll
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\09-AnimalCompositionChallenge\AnimalCompositionChallenge\obj\Debug\net10.0\AnimalCompositionChallenge.pdb
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\09-AnimalCompositionChallenge\AnimalCompositionChallenge\obj\Debug\net10.0\AnimalCompositionChallenge.genruntimeconfig.cache
+C:\Learn C#\4. Practice Prompts\Lecture 83 Inheritance vs Composition\09-AnimalCompositionChallenge\AnimalCompositionChallenge\obj\Debug\net10.0\ref\AnimalCompositionChallenge.dll

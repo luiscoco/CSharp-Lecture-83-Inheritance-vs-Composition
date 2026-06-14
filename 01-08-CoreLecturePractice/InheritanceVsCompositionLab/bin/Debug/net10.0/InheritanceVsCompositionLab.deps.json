@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "InheritanceVsCompositionLab/1.0.0": {
+        "runtime": {
+          "InheritanceVsCompositionLab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InheritanceVsCompositionLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
